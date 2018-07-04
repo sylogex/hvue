@@ -13,13 +13,7 @@ hvue is a [GopherJS](https://github.com/gopherjs/gopherjs) wrapper for the
 
 ```
 cd /path/to/github.com/sylogex/sy-gopher-hvue
-gopherjs serve github.com/sylogex/sy-gopher-hvue/index
+gopherjs serve github.com/sylogex/sy-gopher-hvue/root
 ```
 and then
-- http://localhost:8080/examples/01-introduction/
-- http://localhost:8080/examples/02-lifecycle/
-- http://localhost:8080/examples/ for more
-
-# GoDoc
-
-http://godoc.org/github.com/HuckRidgeSW/hvue
+- http://localhost:8080/
